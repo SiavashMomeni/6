@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1577553498 source:c:\users\asus\desktop\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<winsock2.h>
+	<ctype.h>
+	"cJSON.h"
+	<stdarg.h>
+
+1577370291 source:c:\users\asus\desktop\project\project\untitled3.c
+	<stdio.h>
+	<string.h>
+
+1575929324 c:\users\asus\desktop\project\project\cjson.h
+	<stddef.h>
+
